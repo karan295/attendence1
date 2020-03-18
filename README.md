@@ -1,2 +1,2 @@
 # attendence1
-attendence repo
+attendence repo for git command and demostrations
